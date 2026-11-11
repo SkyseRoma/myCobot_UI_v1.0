@@ -1,0 +1,15 @@
+# Данные, которые приложение создаёт при запуске — не в git:
+# настройки конкретной машины и пользовательские файлы.
+settings.json
+programs/
+recordings/
+scenes/
+
+# Логи
+*.log
+
+# OS / IDE
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
